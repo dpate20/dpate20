@@ -1,23 +1,45 @@
 # 💫 About Me:
-I’m currently working on  
-An AI-driven pentesting toolkit that streamlines reconnaissance, vulnerability discovery, and reporting.
+## Hey, I’m Dev 👋
 
-I’m looking to collaborate on  
-Open-source security tools, especially projects focused on automation, detection, and practical security workflows.
+I’m a cybersecurity builder focused on turning complex security tasks into simple, repeatable workflows.
 
-I’m looking for help with  
+---
+
+### 🔭 I’m currently working on
+An **AI-driven pentesting toolkit** that streamlines:
+- Reconnaissance
+- Vulnerability discovery & triage
+- Reporting that’s clear and actionable
+
+---
+
+### 🤝 I’m looking to collaborate on
+Open-source **security tools**—especially projects centered on:
+- Automation & productivity
+- Detection & monitoring
+- Practical, real-world security workflows
+
+---
+
+### 🧠 I’m looking for help with
 - Building consistent security practice habits and strengthening my cybersecurity foundation  
-- Blue team and red team fundamentals, with an emphasis on responsible, real-world approaches
+- Blue team and red team fundamentals, including responsible ways to approach real scenarios
 
-I’m currently learning  
+---
+
+### 🌱 I’m currently learning
 - Ethical hacking fundamentals and the technical side of cybersecurity  
-- Kali Linux tools and workflows for controlled, lab-based practice
+- Kali Linux tools and workflows (in controlled lab environments)
 
-Ask me about  
-My pentesting toolkit progress, tool choices, and how I structure features and documentation.
+---
 
-Fun fact  
-I enjoy turning complex security tasks into simple, repeatable workflows with clear documentation.
+### 💬 Ask me about
+My pentesting toolkit progress, design choices, and how I structure features, documentation, and reporting.
+
+---
+
+### ⚡ Fun fact
+I genuinely enjoy making security tooling **clean, organized, and well-documented**—because usability matters.
 
 
 
