@@ -1,5 +1,24 @@
 # 💫 About Me:
-I’m currently working on<br><br>An AI-driven pentesting toolkit that streamlines reconnaissance, vulnerability discovery, and reporting.<br><br>I’m looking to collaborate on<br><br>Open-source security tools, especially projects focused on automation, detection, and practical security workflows.<br><br>I’m looking for help with<br><br>Building consistent security practice habits and improving my technical cybersecurity foundation<br><br>Blue team and red team fundamentals, including how to approach real-world scenarios responsibly and effectively<br><br>I’m currently learning<br><br>The technical side of cybersecurity and ethical hacking fundamentals<br><br>Kali Linux tools and workflows, and how to use them properly in controlled lab environments<br><br>Ask me about<br><br>My pentesting toolkit progress, tool choices, and how I’m structuring features and documentation<br><br>Fun fact<br><br>I enjoy turning complex security tasks into simple, repeatable workflows with clear documentation.
+I’m currently working on  
+An AI-driven pentesting toolkit that streamlines reconnaissance, vulnerability discovery, and reporting.
+
+I’m looking to collaborate on  
+Open-source security tools, especially projects focused on automation, detection, and practical security workflows.
+
+I’m looking for help with  
+- Building consistent security practice habits and strengthening my cybersecurity foundation  
+- Blue team and red team fundamentals, with an emphasis on responsible, real-world approaches
+
+I’m currently learning  
+- Ethical hacking fundamentals and the technical side of cybersecurity  
+- Kali Linux tools and workflows for controlled, lab-based practice
+
+Ask me about  
+My pentesting toolkit progress, tool choices, and how I structure features and documentation.
+
+Fun fact  
+I enjoy turning complex security tasks into simple, repeatable workflows with clear documentation.
+
 
 
 ## 🌐 Socials:
