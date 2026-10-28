@@ -1,59 +1,73 @@
-# 💫 About Me:
-## Hey, I’m Dev 👋
+# Hi, I'm Dev 👋
 
-I’m a cybersecurity builder focused on turning complex security tasks into simple, repeatable workflows.
+**GRC · IT Audit · Cybersecurity**
 
----
+I'm an M.S. Information Systems student at Dakota State University and have a B.S. in Computer Science from the University of Kansas. I work where security controls meet compliance: testing controls, reviewing evidence, and building tools that make audit and security work faster and easier to trace.
 
-### 🔭 I’m currently working on
-An **AI-driven pentesting toolkit** that streamlines:
-- Reconnaissance
-- Vulnerability discovery & triage
-- Reporting that’s clear and actionable
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-devarth--patel-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devarth-patel)
+[![Website](https://img.shields.io/badge/Website-dpatel.me-111111?logo=googlechrome&logoColor=white)](https://dpatel.me)
+[![Email](https://img.shields.io/badge/Email-Dev.Patel%40trojans.dsu.edu-D14836?logo=gmail&logoColor=white)](mailto:Dev.Patel@trojans.dsu.edu)
 
 ---
 
-### 🤝 I’m looking to collaborate on
-Open-source **security tools**—especially projects centered on:
-- Automation & productivity
-- Detection & monitoring
-- Practical, real-world security workflows
+## 💼 Recent experience
+
+**Student Technology Auditor, John Deere Financial Services** (Jun – Sep 2026)
+
+- Tested IT general controls (ITGCs) supporting SOX across Microsoft Azure and Microsoft 365, covering access provisioning, terminations, change management, and patch management.
+- Reviewed SOC 1 and SOC 2 reports and mapped complementary user entity controls (CUECs) for third-party providers.
+- Conducted control walkthroughs with engineering and business teams in four countries, working alongside external auditors.
+- Built a Microsoft Copilot audit assistant in Teams that maps controls to frameworks and flags potential gaps. Every output gets human review, and it saved about 8 hours of my own testing per sprint.
 
 ---
 
-### 🧠 I’m looking for help with
-- Building consistent security practice habits and strengthening my cybersecurity foundation  
-- Blue team and red team fundamentals, including responsible ways to approach real scenarios
+## 🔭 Currently building
+
+### IT Audit RAG Assistant
+A locally hosted retrieval-augmented assistant for IT auditors. It finds criteria, maps controls, and drafts workpapers and issues, and it cites every claim without sending data off the machine.
+
+- **Stack:** Python, LangChain, ChromaDB, Ollama
+- **Features:** framework lookup by exact control ID, control mapping (COSO, SOX ITGC domains), and per-chat SOC report upload that checks exceptions and maps CUECs
+- **Guardrails:** the tool drafts and the auditor concludes. Outputs are cited or refused, no evidence is invented, and uploaded documents are treated as untrusted input to defend against prompt injection.
 
 ---
 
-### 🌱 I’m currently learning
-- Ethical hacking fundamentals and the technical side of cybersecurity  
-- Kali Linux tools and workflows (in controlled lab environments)
+## 🛡️ Projects & labs
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Security-Labs](https://github.com/dpate20/Security-Labs) | Lab write-ups and research reviews: traffic analysis, packet crafting, Snort IDS, Security Onion | Wireshark, Scapy, Snort, Kali Linux |
+| [Anomalyze.io](https://github.com/dpate20/Anomalyze.io) | Network anomaly detection pipeline that flags unusual activity for review | Python, Scapy, scikit-learn, Streamlit |
+| [Cetus.io](https://github.com/dpate20/Cetus.io) | AI-assisted email phishing detection extension | Python |
+| [BuddyAllocator](https://github.com/dpate20/BuddyAllocator) | Buddy memory allocation algorithm | C |
+
+All security testing is done in controlled lab environments or approved coursework.
 
 ---
 
-### 💬 Ask me about
-My pentesting toolkit progress, design choices, and how I structure features, documentation, and reporting.
+## 📋 Frameworks & standards
+
+`SOX / ITGC` · `SOC 1 & SOC 2` · `CUECs` · `COSO` · `NIST CSF 2.0` · `ISO/IEC 27001` · `DORA` · `IIA Standards`
+
+## 🧰 Tools
+
+**Audit & GRC:** AuditBoard · ServiceNow · Jira
+**Identity & cloud security:** Microsoft Azure · Microsoft 365 · Microsoft Purview · Microsoft Defender · CyberArk · Active Directory · AWS
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### ⚡ Fun fact
-I genuinely enjoy making security tooling **clean, organized, and well-documented**—because usability matters.
+## 🌱 Currently
 
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__dev__patel__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devarth-patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Dev.Patel@trojans.dsu.edu) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dpate20&theme=neon&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dpate20&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpate20&theme=neon&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=dpate20&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- Working toward graduate certificates in Banking Security and Information Technology at DSU
+- Open to Summer 2027 internships in IT audit, GRC, and cybersecurity
