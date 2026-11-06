@@ -37,6 +37,7 @@ A locally hosted retrieval-augmented assistant for IT auditors. It finds criteri
 | Project | What it is | Stack |
 |---|---|---|
 | [Security-Labs](https://github.com/dpate20/Security-Labs) | Lab write-ups and research reviews: traffic analysis, packet crafting, Snort IDS, Security Onion | Wireshark, Scapy, Snort, Kali Linux |
+| [ITGC Automated Access Auditor](https://github.com/dpate20/ITGC-Automated-Access-Auditor) | Python-based IT audit automation tool that reconciles employee and system access records, detects terminated users with active accounts and unauthorized privileged access, validates source data, and exports audit findings. Includes 12 passing automated tests. | Python, pandas, pytest, IAM, SOX ITGC |
 | [Anomalyze.io](https://github.com/dpate20/Anomalyze.io) | Network anomaly detection pipeline that flags unusual activity for review | Python, Scapy, scikit-learn, Streamlit |
 | [Cetus.io](https://github.com/dpate20/Cetus.io) | AI-assisted email phishing detection extension | Python |
 | [BuddyAllocator](https://github.com/dpate20/BuddyAllocator) | Buddy memory allocation algorithm | C |
